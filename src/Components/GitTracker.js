@@ -67,4 +67,4 @@ class GitTracker extends Component{
     }
 }
 
-export default GitTracker;git 
+export default GitTracker; 
